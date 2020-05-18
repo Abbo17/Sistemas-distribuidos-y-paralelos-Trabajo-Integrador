@@ -6,7 +6,7 @@ computación de la Universdad Nacional de la Plata.
 ## Objetivo
 
 El trabajo consiste en la resolución de dos algoritmos diferentes realizando su implementación
-secuencial y a su vez su paralelización. En ambos ejercicios el algoritmo secuencial debe ser lo más
+secuencial y a su vez su paralelización mediante el uso de las librerias Pthread, OpenMP y MPI. En ambos ejercicios el algoritmo secuencial debe ser lo más
 óptimo posible. Por otra parte también se deben realizar cálculos de tiempos de ejecución, junto con su Speedup y
 Eficiencia.
 
@@ -34,5 +34,5 @@ Se debe obtener la cantidad total de soluciones encontradas NO los tableros con 
 
 ### Informe del Proyecto
 
-Para mas información acerca de este Proyecto puede acceder al Informe donde se detalla el mismo: [Informe Final.](https://github.com/Abbo17/Demodulaci-n-de-se-ales-con-Dongle-SDR1/blob/master/Informe%20Final.pdf) 
+Para mas información acerca de este Proyecto puede acceder al Informe donde se detalla el mismo: [Informe Final.](https://github.com/Abbo17/Sistemas-distribuidos-y-paralelos-Trabajo-Integrador/blob/master/Informe%20Final.pdf) 
 
