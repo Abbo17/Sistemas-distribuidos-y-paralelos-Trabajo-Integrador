@@ -1,7 +1,7 @@
 # Sistemas distribuidos y paralelos - Trabajo sobre memoria compartida y memoria distribuida.
 
 Dicho proyecto es un Trabajo Integrador realizado para la materia Sistemas distribuidos y paralelos correspondiente al plan de estudio de la carrera Ingeniería en
-computación de la Universdad Nacional de la Plata.
+computación de la Universidad Nacional de la Plata.
 
 ## Objetivo
 
